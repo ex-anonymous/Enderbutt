@@ -1,0 +1,9 @@
+name: EnderButt
+version: '${project.version}'
+main: me.bludenz.enderbutt.EnderButt
+authors: [ Bludenz ]
+description: EnderButt Gadget
+commands:
+  enderbutt:
+    usage: /enderbutt
+    description: Gives Enderbutt
